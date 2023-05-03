@@ -1,14 +1,5 @@
-<table width="100%" border="1px solid black">
-<tr><strong>Pattern</strong>
-<td>.swp </td>
-</tr>
-<tr><strong>Description</strong>
-<td> swapping file </td>
-</tr>
-<tr><strong>Example</strong>
-<td>file.swp</td>
-
-
-
-
-</table>
+pattern      | Description                  |Example
+.swpp        | Swapping file                |hello.c.swp
+.file        | a file extension             |name.file
+.data        | a data file                  |sample.data
+.env         | a sample env application     |file.env
