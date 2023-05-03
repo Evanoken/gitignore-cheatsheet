@@ -1,5 +1,5 @@
-<pre> pattern       | Description                         |Example <br>
-<pre> .swpp         | Swapping file                       |hello.c.swp <br>
-<pre> .file         | a file extension                    |name.file <br>
-<pre> .data         | a data file                         |sample.data <br>
+<pre> pattern       | Description                         |Example <br>   </pre>
+<pre> .swpp         | Swapping file                       |hello.c.swp <br> </pre>
+<pre> .file         | a file extension                    |name.file <br> </pre>
+<pre> .data         | a data file                         |sample.data <br> </pre>
 <pre> .env          | a sample env application            |file.env
